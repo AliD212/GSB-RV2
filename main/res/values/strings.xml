@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RV-Visiteur</string>
+    <string name="matricule">Matricule : </string>
+    <string name="matricule2">Matricule : </string>
+    <string name="mdp">mdp</string>
+    <string name="valider">VALIDER</string>
+    <string name="annuler">ANNULER</string>
+    <string name="description_mdp">saisir le mot de passe</string>
+    <string name="Ok">Connexion ok  </string>
+    <string name="consulter">Consulter un rapport de visite</string>
+    <string name="saisir">Saisir un rapport de visite</string>
+    <string name="mois">SELECT MOIS</string>
+    <string name="annee">SELECT ANNEE</string>
+</resources>
